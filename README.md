@@ -1,3 +1,5 @@
-# Modify this portfolio
+# William Green Portfolio
 
-Make it your own! 
+This is my Professional portfolio built in react.
+
+[Check it out here!](https://williamgreen.netlify.app/)
