@@ -88,37 +88,77 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Recurrence, Inc.",
+        "title": "Full Stack Developer",
+        "years": "07.2018 - 12.2018",
         "mainTech": [
-          "Angular 8/9/10"
+          "Vue.js 1"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MongoDB",
+          "PostgreSQL",
+          "Vue.JS",
+          "Node.JS",
+          "Apollo GraphQL"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Miller's Ace Hardware",
+        "title": "Full Stack Developer",
+        "years": "06.2012 - 10.2012",
         "mainTech": [
-          "Angular 7/8"
+          "PHP 5.4"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
           "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Javascript",
+          "MySQL",
+          "Linode",
+          "Postfix"
+        ]
+      },
+      {
+        "company": "Softwise",
+        "title": "Software Developer",
+        "years": "04.2008 - 10.2010",
+        "mainTech": [
+          ".NET"
+        ],
+        "technologies": [
+          "C#",
+          "ASP.NET",
+          "Microsoft SQL",
+          "Telerik Components"
+        ]
+      },
+      {
+        "company": "eFileCabinet",
+        "title": "Software Programmer",
+        "years": "11.2007 - 04.2008",
+        "mainTech": [
+          ".NET"
+        ],
+        "technologies": [
+          "C#",
+          "ASP.NET",
+          "Microsoft SQL",
+          "C++"
+        ]
+      },
+      {
+        "company": "Seamlessweb",
+        "title": "QA Engineer",
+        "years": "12.2005 - 07.2007",
+        "mainTech": [
+          ".NET"
+        ],
+        "technologies": [
+          "C#",
+          "ASP.NET",
+          "Microsoft SQL",
+          "Selenium IDE"
         ]
       }
     ]
